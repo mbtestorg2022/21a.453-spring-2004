@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: parade3.jpg
 uid: 494bce4d-c695-e750-b0e1-c94e0da9719d

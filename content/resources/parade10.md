@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: parade10.jpg
 uid: 80b79f74-ace5-88ca-5792-2bdb7fa25ba1

@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: epichero059a.jpg
 uid: 6e1e5f92-3b73-6e91-0ee9-4c5140bcee12

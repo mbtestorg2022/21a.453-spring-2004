@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: wedsong1.jpg
 uid: ca8a1c6b-f722-2da5-2f05-ab3a8fe48a5b

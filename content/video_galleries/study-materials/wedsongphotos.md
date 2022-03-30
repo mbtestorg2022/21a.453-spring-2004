@@ -11,22 +11,22 @@ All photos by Susan Slyomovics.
 Photo stills from _Wedding Song: Henna Art among Pakistani Women in New York City_
 ----------------------------------------------------------------------------------
 
-![Henna painted hand.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/wedsong1.jpg)
+{{< resource "ca8a1c6b-f722-2da5-2f05-ab3a8fe48a5b" >}}
 
 Henna painted hand.
 
-![Painting the bride.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/wedsong3.jpg)
+{{< resource "2f7f8ec4-3e43-7c4a-50b0-38bbb764d5b0" >}}
 
 Painting the bride.
 
-![The bride.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/wedsong5.jpg)
+{{< resource "ae492662-0b3f-17ab-ca59-da287a3a8203" >}}
 
 The bride.
 
-![Painting the bride.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/wedsong2.jpg)
+{{< resource "b1947c92-39c9-157f-671b-cded976766bf" >}}
 
 Painting the bride.
 
-![The wedding party.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/wedsong4.jpg)
+{{< resource "38b60467-c4c2-3235-9eca-794ee5954965" >}}
 
 The wedding party.

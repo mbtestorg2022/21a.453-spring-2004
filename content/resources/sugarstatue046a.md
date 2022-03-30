@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: sugarstatue046a.jpg
 uid: f5198947-8cb0-2ee7-f180-75126afc91cc

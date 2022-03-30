@@ -5,6 +5,7 @@ description: 'Susan Slyomovics, "Arabic Traditions", as originally published in 
   1998, pg 266-272. ? Susan Slyomovics.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-453-anthropology-of-the-middle-east-spring-2004/102055fe498ee028a11d5569838d6e7d_arabictraditions.pdf
 file_type: application/pdf
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Document
 title: arabictraditions.pdf
 uid: 102055fe-498e-e028-a11d-5569838d6e7d

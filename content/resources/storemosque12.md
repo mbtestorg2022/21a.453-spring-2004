@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: storemosque12.jpg
 uid: d2d34546-6db2-e2e0-5c20-3d6471c5f6e4

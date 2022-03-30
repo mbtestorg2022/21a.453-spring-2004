@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: muslimspace37.jpg
 uid: 1db2323a-a5a7-0289-2e44-cc3b01822cb3

@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: muslimspace38.jpg
 uid: 07dafc17-26f3-2e2b-6192-8772f9936db6

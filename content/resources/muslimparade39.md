@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 75e0602f-6aab-255d-e60b-9e26435ec367
 resourcetype: Image
 title: muslimparade39.jpg
 uid: 5974a727-bfa5-430b-f0dd-1fefcea86ec1

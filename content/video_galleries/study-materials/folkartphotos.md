@@ -6,22 +6,22 @@ title: Middle Eastern 20th Century Folk Art Photos
 uid: 1c5fb7cd-d144-809d-a846-c3b9282be29f
 ---
 
-![Epic heroes carved in pink sugar candy.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/sugarstatue046a.jpg)
+{{< resource "f5198947-8cb0-2ee7-f180-75126afc91cc" >}}
 
 Epic heroes carved in pink sugar candy, Cairo street.
 
-![Antar Ibm Shaddad, epic hero.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/epichero059a.jpg)
+{{< resource "6e1e5f92-3b73-6e91-0ee9-4c5140bcee12" >}}
 
 Antar Ibm Shaddad, epic hero. Painting under glass Tunis, Tunisia. 20th century folk art, owned by Prof. Susan Slyomovics.
 
-![Abu Zayd al-Hilal Salama, epic hero.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/sword062.jpg)
+{{< resource "dbe14344-6f4d-547b-9f36-d5bfed33daaa" >}}
 
 Abu Zayd al-Hilal Salama, epic hero. Block print, Cairo, Eqypt. 20th century folk art, owned by Prof. Susan Slyomovics.
 
-![Battle of epic heroes.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/sword061a.jpg)
+{{< resource "14790adc-f980-4eef-1bdd-fa791bc2b272" >}}
 
 Battle of epic heroes. Painting under glass Tunis, Tunisia. 20th century folk art, owned by Prof. Susan Slyomovics.
 
-![Alba epic heroine.](/courses/anthropology/21a-453-anthropology-of-the-middle-east-spring-2004/study-materials/aoe000058a.jpg)
+{{< resource "3dde89e0-1348-6e2d-eeb5-a55def159699" >}}
 
 Abla epic heroine. Painting under glass Tunis, Tunisia. 20th century folk art, owned by Prof. Susan Slyomovics.
